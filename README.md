@@ -17,8 +17,7 @@
 
 ---
 
-Как запустить
-```bash
+## Как запустить
 git clone https://github.com/alekproekt-creator/BookTracker
 cd book-tracker
 python main.py
