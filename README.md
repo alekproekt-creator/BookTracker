@@ -23,7 +23,7 @@ git clone https://github.com/alekproekt-creator/BookTracker
 cd book-tracker
 python main.py
 
-Как пользоваться
+## Как пользоваться
 
 1. При запуске появляется меню:
 
