@@ -17,7 +17,7 @@
 
 ---
 
-## Как запустить
+Как запустить
 ```bash
 git clone https://github.com/alekproekt-creator/BookTracker
 cd book-tracker
